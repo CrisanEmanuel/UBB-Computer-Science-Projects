@@ -12,3 +12,6 @@ This repository contains a list of my projects organized by semester.
 * 📚 [Baze de date](https://github.com/CrisanEmanuel/Semester-3-Baze-de-date)
 * 🔍 [PLF](https://github.com/CrisanEmanuel/Semester-3-PLF)
 * 📡 [Retele de calculatoare](https://github.com/CrisanEmanuel/Semester-3-Retele-de-calculatoare)
+
+### 📁 Semester 4
+ * 🤖 [AI](link)
