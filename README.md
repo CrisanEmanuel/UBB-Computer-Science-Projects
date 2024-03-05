@@ -14,4 +14,4 @@ This repository contains a list of my projects organized by semester.
 * 📡 [Retele de calculatoare](https://github.com/CrisanEmanuel/Semester-3-Retele-de-calculatoare)
 
 ### 📁 Semester 4
- * 🤖 [AI](link)
+ * 🤖 [AI](https://github.com/CrisanEmanuel/Semester-4-AI)
