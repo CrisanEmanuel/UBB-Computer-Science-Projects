@@ -15,3 +15,4 @@ This repository contains a list of my projects organized by semester.
 
 ### 📁 Semester 4
  * 🤖 [AI](https://github.com/CrisanEmanuel/Semester-4-AI)
+ * 🕸️ [Programare web](https://github.com/CrisanEmanuel/Semester-4-Programare-Web)
