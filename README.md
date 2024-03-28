@@ -3,7 +3,7 @@ Projects from university.
 This repository contains a list of my projects organized by semester.
 
 ### 📁 Semester 2
-* 💡  [Algoritmica grafelor](https://github.com/CrisanEmanuel/Semester-2-Algoritmica-grafelor)
+* 💡 [Algoritmica grafelor](https://github.com/CrisanEmanuel/Semester-2-Algoritmica-grafelor)
 * 💻 [Object-oriented programming (OOP)](https://github.com/CrisanEmanuel/Semester-2-OOP)
 * 🎓 [Structuri de date si algoritmi (SDA)](https://github.com/CrisanEmanuel/Semester-2-SDA)
 
