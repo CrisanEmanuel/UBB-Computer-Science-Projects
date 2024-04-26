@@ -18,4 +18,5 @@ This repository contains a list of my projects organized by semester.
  * 🤖 [AI](https://github.com/CrisanEmanuel/Semester-4-AI)
  * 🕸️ [Programare web](https://github.com/CrisanEmanuel/Semester-4-Programare-Web)
  * 📑 [Sisteme de gestiune a bazelor de date (SGBD)](https://github.com/CrisanEmanuel/Semester-4-SGBD)
- * 💡 [Ingineria sistemelor soft (ISS)](https://github.com/CrisanEmanuel/Semester-4-ISS)
+ * 🖥️ [Ingineria sistemelor soft (ISS)](https://github.com/CrisanEmanuel/Semester-4-ISS)
+ * ⚙️ [Medii de proiectare si programare (MPP)](https://github.com/CrisanEmanuel/Semester-4-MPP)
